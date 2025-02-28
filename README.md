@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **python, java, and c**
 
-- 📫 How to reach me **Email: abcueto1@up.edu.ph, Linkedin: bit.ly/adriancueto**
+- 📫 How to reach me **Email: abcueto1@up.edu.ph, Linkedin: www.bit.ly/adriancueto**
 
 - ⚡ Fun fact **I really like perfumes.**
 
