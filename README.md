@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">An aspiring software engineer from San Jose Del Monte, Bulacan</h3>
 
-- 🌱 I’m currently learning **Operating Systems, Web Programming, Automata and Language Theory, and Programming Languages**
+- 🌱 I’m currently learning **Analysis of Algorithms, Data Communications and Networking, Human-Computer Interaction, and Software Engineering**
 
-- 💬 Ask me about **python, java, and c**
+- 💬 Ask me about **javascript, python, java, and c**
 
-- 📫 How to reach me **Email: abcueto1@up.edu.ph, Linkedin: www.bit.ly/adriancueto**
+- 📫 How to reach me **Email: adrianboloscueto@gmail.com, Linkedin: linkedin.com/in/adrian-cueto**
 
 - ⚡ Fun fact **I really like perfumes.**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cuetoadrianb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuetoadrianb" height="30" width="40" /></a>
 <a href="https://instagram.com/bisidrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bisidrian" height="30" width="40" /></a>
 </p>
 
