@@ -11,7 +11,7 @@
 
 - 🔭 Hobbies **sleeping, video games, playing piano, singing, eating**
 
-- 👨‍💻 Personal Projects **[QSI and Simplex Method Calculator in R](https://github.com/driee17/cmsc150-rstudio-webapp "QSI and Simplex Method Calculator in R")**
+- 👨‍💻 Personal Projects **[Web Programming Portfolio (Exercises)](https://github.com/driee17/web-programming-portfolio)**, **[QSI and Simplex Method Calculator in R](https://github.com/driee17/cmsc150-rstudio-webapp)**, [Project Pokemans (E-Commerce Web App)](https://github.com/driee17/cmsc100-project), [Cross-Platform Slambook App](https://github.com/driee17/flutter-contacts-app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
