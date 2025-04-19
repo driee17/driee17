@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">An aspiring software engineer from San Jose Del Monte, Bulacan</h3>
+<h3 align="center">Full Stack Web Developer | Software Engineer | BS Computer Science @ University of the Philippines Los Baños</h3>
 
 - 🌱 I’m currently learning **Analysis of Algorithms, Data Communications and Networking, Human-Computer Interaction, and Software Engineering**
 
