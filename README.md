@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Full Stack Web Developer | Software Engineer | BS Computer Science @ University of the Philippines Los Baños</h3>
 
-- 🌱 I’m currently learning **Analysis of Algorithms, Data Communications and Networking, Human-Computer Interaction, and Software Engineering**
+- 🌱 I’m currently learning **Parallel Computing, and Knowledge Management Systems**
 
 - 💬 Ask me about **javascript, python, java, and c**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bisidrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bisidrian" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/adrian-cueto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrian Cueto" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adrian-cueto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/linked-in.svg" alt="Adrian Cueto - LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
